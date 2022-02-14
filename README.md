@@ -8,7 +8,7 @@ The game was made using
 - JRE
 - GVR SDK  
 
-for use with Google Cardboard and the game is based on Claustrophobia.
+for use with Google Cardboard. The game is based on Claustrophobia.
 ## Bedroom
 
 https://user-images.githubusercontent.com/98866395/153908015-0678d77c-584b-4b0a-88e8-337177f344b0.mp4
