@@ -13,7 +13,7 @@ for use with Google Cardboard and the game is based on Claustrophobia.
 
 https://user-images.githubusercontent.com/98866395/153908015-0678d77c-584b-4b0a-88e8-337177f344b0.mp4
 
-[Bedroom Unity asset](Bedroom.zip)  
+[Bedroom Unity asset](Bedroom.unitypackage)  
 [Bedroom apk](BedroomClaustrophobia.apk)
 
 ---
@@ -23,5 +23,5 @@ This level's video design was done in blender by [Himani Kharbanda](https://gith
 
 https://user-images.githubusercontent.com/98866395/153912775-997b88bd-c18b-4ff1-9838-031c4ac4b79c.mp4
 
-[Tunnel Unity asset](Tunnel.zip)  
+[Tunnel Unity asset](Tunnel.unitypackage)  
 [Tunnel apk](TunnelClaustrophobia.apk)
