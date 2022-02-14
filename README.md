@@ -4,4 +4,4 @@ An android VR game I made in 3rd semester as my Experiential Learning Centre (EL
 
 ![Bedroom Claustrophobia](https://user-images.githubusercontent.com/98866395/153906256-6fd6db38-c151-48bb-aa3d-a139b9c176ba.gif)
 
-<img src="https://user-images.githubusercontent.com/98866395/153906256-6fd6db38-c151-48bb-aa3d-a139b9c176ba.gif" width="1600" height="900"/>
+<img src="https://user-images.githubusercontent.com/98866395/153906256-6fd6db38-c151-48bb-aa3d-a139b9c176ba.gif" width="1600" height="500"/>
