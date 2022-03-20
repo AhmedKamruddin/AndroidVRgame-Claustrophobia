@@ -1,6 +1,6 @@
 # AndroidVRgame-Claustrophobia
 
-A VR game for android I made in 3rd semester as my Experiential Learning Centre (ELC) activity on Gaming and Animation. The objective: a virtual reality game/utility based solution for curing any of the phobias of real life.   
+A VR game for android I made with my friends in 3rd semester as my Experiential Learning Centre (ELC) activity on Gaming and Animation. The objective: a virtual reality game/utility based solution for curing any of the phobias of real life.   
 
 The game was made using 
 - Unity
