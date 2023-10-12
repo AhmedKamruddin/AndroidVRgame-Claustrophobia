@@ -1,6 +1,6 @@
 # AndroidVRgame-Claustrophobia
 
-A VR game for android I and my friends made for 3rd sem ELC activity on Gaming and Animation. The objective: a virtual reality game/utility based solution for curing any of the phobias of real life.   
+A VR game for android I and my friends made for 3rd sem ELC activity on Gaming and Animation. The objective: a virtual reality game/utility based solution for helping the user overcome Claustrophobia.   
 
 The game was made using 
 - Unity
@@ -8,18 +8,20 @@ The game was made using
 - JRE
 - GVR SDK  
 
-for use with Google Cardboard. The game is based on Claustrophobia.
+for use with Google Cardboard. The game is to expose the user to confined spaces.
 ## Bedroom
 
 https://user-images.githubusercontent.com/98866395/153908015-0678d77c-584b-4b0a-88e8-337177f344b0.mp4
 
 [Bedroom Unity asset](Bedroom.unitypackage)  
-[Bedroom apk](BedroomClaustrophobia.apk)
+[Bedroom apk](BedroomClaustrophobia.apk)  
+
+If you think the walls are closing in on you, that's just in your head and totally not an intentional game design ;)
 
 ---
 
+
 ## Tunnel
-This level's video design was done in blender by [Himani Kharbanda](https://github.com/kharbandahimani).
 
 https://user-images.githubusercontent.com/98866395/153912775-997b88bd-c18b-4ff1-9838-031c4ac4b79c.mp4
 
